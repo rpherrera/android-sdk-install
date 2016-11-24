@@ -1,0 +1,5 @@
+.apt-updated
+.android-skd-installed
+.vagrant/**
+packages/**
+*.log
